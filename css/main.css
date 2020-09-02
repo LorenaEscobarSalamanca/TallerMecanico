@@ -1,0 +1,31 @@
+.buscador {
+    height: 140px;
+    text-align: center;
+}
+.buscador h2 {
+    color: #f7e7bd;
+    font-size: 25px;
+}
+.input{
+    border: 2px solid #f7e7bd;
+    border-radius: 50px;
+    color: #f7e7bd;
+    font-size: 18px;
+    height: 40px;
+    padding: 0px 20px;
+    width: 70%;
+    background-color: #bf8e97;
+    display: block;
+    margin: auto;
+}
+.input:focus {
+    outline: none;
+}
+::placeholder {
+    color: #f7e7bd;
+}
+.title{
+    color: #f7e7bd;
+    font-size: 18px;
+    margin-left: 20px;
+}
